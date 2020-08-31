@@ -9,3 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2020-08-30
 ### Added
 - A comma
+
+### Changed
+- Capitalized the "H"
+
+### Removed
+- Exclamation mark
